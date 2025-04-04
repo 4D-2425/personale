@@ -8,6 +8,24 @@
 
 /* personalizzo il footer  */
 footer {
-    height: 13vh;
     background-color: cornflowerblue;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.mezzo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* seleziono tutti i p che stanno dentro a contatti  */
+.contatti p {
+    display: flex;
+    align-items: center;
+}
+
+.passioni {
+    height: 50vh;
+    background-color: lightskyblue;
 }
