@@ -14,9 +14,9 @@ footer {
 }
 
 .mezzo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* seleziono tutti i p che stanno dentro a contatti  */
