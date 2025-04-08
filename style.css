@@ -29,3 +29,16 @@ footer {
     height: 80vh;
     background-color: lightskyblue;
 }
+
+.foglio {
+    padding: 3%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    border: 1px solid black;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 999; /* tenere tutto davanti */
+}
